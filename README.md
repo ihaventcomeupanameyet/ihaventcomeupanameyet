@@ -65,3 +65,4 @@ Real-time GPU-based particle simulation (~15k particles @ 60 FPS).
 ## Connect
 
 - LinkedIn: https://www.linkedin.com/in/song-shi-2b5250278/
+- Personal site: https://song-shi.com/
