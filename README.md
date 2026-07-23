@@ -1,11 +1,11 @@
-# 👋 Hi, I'm Song
+# Hi, I'm Song
 
-💻 Computer Science @ UBC  
-⚡ Interested in building systems at the intersection of AI, graphics, and backend engineering  
+Computer Science @ UBC  
+Interested in building systems at the intersection of AI, graphics, and backend engineering  
 
 ---
 
-## 🧠 About Me
+## About Me
 
 I like building things fast, breaking them, and figuring out why they broke.
 
@@ -17,7 +17,7 @@ Recently I’ve been exploring:
 
 ---
 
-## 🚀 Current Focus
+## Current Focus
 
 - Designing end-to-end AI systems (embeddings, vector search, LLMs)  
 - Exploring how modern dev workflows change with AI (vibecoding)  
@@ -25,7 +25,7 @@ Recently I’ve been exploring:
 
 ---
 
-## 🛠 Tech Stack
+## Tech Stack
 
 ### Languages
 ![Python](https://img.shields.io/badge/-Python-333333?style=for-the-badge&logo=python)
@@ -52,16 +52,16 @@ Recently I’ve been exploring:
 
 ---
 
-## ⚡ Selected Work
+## Selected Work
 
-### 🌀 RAG Text Generation System
+### RAG Text Generation System
 Custom pipeline for style-conditioned text generation using embeddings + semantic search.
 
-### 🌌 N-Body Simulation
+### N-Body Simulation
 Real-time GPU-based particle simulation (~15k particles @ 60 FPS).
 
 ---
 
-## 📫 Connect
+## Connect
 
 - LinkedIn: https://www.linkedin.com/in/song-shi-2b5250278/
